@@ -11,5 +11,8 @@
     <img src="bouncingball2.png" width="300" height="500" />
     <img src="bouncingball3.png" width="300" height="500" />
   </p>
-
+- [Program 3: colorcube.cpp](./colorcube.cpp)
+  <p align="center">
+  <img src="colorcube.gif" width="600" height="500" />
+  </p>
 - ...
