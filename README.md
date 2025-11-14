@@ -7,9 +7,9 @@
   </p>
 - [Program 2: bouncingball.cpp](./bouncingball.cpp)
   <p align="center">
-    <img src="bouncingball1.png" width="400" />
-    <img src="bouncingball2.png" width="400" />
-    <img src="bouncingball3.png" width="400" />
+    <img src="bouncingball1.png" width="300" height="500" />
+    <img src="bouncingball2.png" width="300" height="500" />
+    <img src="bouncingball3.png" width="300" height="500" />
   </p>
 
 - ...
