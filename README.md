@@ -3,7 +3,7 @@
 ## 📁 Files
 - [Program 1: 3dcube.cpp](./3dcube.cpp)
   <p align="center">
-  <img src="3dcube.png" width="800" height="600" />
+  <img src="3dcube.png" width="600" height="500" />
   </p>
 - [Program 2: bouncingball.cpp](./bouncingball.cpp)
   <p align="center">
